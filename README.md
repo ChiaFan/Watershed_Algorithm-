@@ -1,2 +1,3 @@
 # Watershed_Algorithm-
-Watershed Algorithm 
+
+Use the Watershed Algorithm to segment the image area of an object.
